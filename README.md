@@ -1,2 +1,2 @@
-# Unused_Hack_Princeton_Idea
+# Hack Princeton unused idea
 Website for online courses that was scrapped, might as well upload it before deleting it locally.
